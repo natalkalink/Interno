@@ -1,0 +1,41 @@
+.title{
+	font-family: "DM Serif Display", serif;
+	font-weight: 400;
+	letter-spacing: 0.22px;
+	color: #292F36;
+	text-transform: capitalize;
+}
+.title--big{
+	font-size: 80px;
+	line-height: 1.2;
+}
+.title--medium{
+	font-size: 50px;
+	line-height: 1.3;
+}
+.title--small{
+	font-size: 25px;
+	line-height: 1.5;
+}
+.title--article{
+	letter-spacing: 0.5px;
+}
+.button{
+	display: inline-block;
+	font-family: "Jost";
+	border-radius: 18px;
+	padding: 22px 24px 22px 34px;
+	font-size: 18px;
+	line-height: 1.5;
+	letter-spacing: 0.72px;
+	text-transform: capitalize;
+}
+.button--black{
+	background-color: #292F36;
+	color: #ffffff;
+}
+.button--light{
+	background-color:#CDA274;
+	letter-spacing: 0.22px;
+	line-height:1.5;
+}
